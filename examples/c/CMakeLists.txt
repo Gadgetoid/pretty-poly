@@ -2,3 +2,4 @@
 #include(geometry.cmake)
 #include(logo.cmake)
 include(primitives.cmake)
+include(draw_test.cmake)
